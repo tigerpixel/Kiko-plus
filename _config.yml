@@ -3,12 +3,12 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Tigerpixel"
 
 
 
 author:
-  name:             your-name
+  name:             Tigerpixel
   facebook:         your-id
   twitter:          your-id
   github:           your-id
@@ -32,7 +32,7 @@ baseurl:            ""
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Europe/London
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
