@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Tigerpixel"
 
 
 
@@ -26,7 +26,7 @@ disqus:
   id:               "AWEEKJ"
 
 # URL
-url:                "https://AWEEKJ.github.io"
+url:                "https://tigerpixel.github.io"
 
 baseurl:            "/Kiko-plus"
 
